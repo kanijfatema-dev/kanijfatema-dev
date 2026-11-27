@@ -19,25 +19,28 @@ I'm passionate about software development, database systems, and building practi
 - 🌱 Currently strengthening my skills in Java and ASP.NET Core
 - 🔍 Interested in backend development, databases and problem-solving
 
+
 ## 🛠️ Technical Skills
 
-**Programming Languages**
+### Programming Languages
 
-Java | C# | C++ | Python
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Frameworks**
+### Frameworks & Technologies
 
-ASP.NET Core MVC | Entity Framework Core
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-**Databases**
+### Databases & Tools
 
-PostgreSQL | Oracle | SQL
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Tools**
-
-Git | GitHub | Visual Studio | IntelliJ IDEA
-
----
 
 ## 🚀 Featured Projects
 
