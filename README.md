@@ -1,3 +1,4 @@
+![Kanij Fatema - GitHub Banner](assets/profile-banner.png)
 # Hi, I'm Kanij Fatema! 🤎
 
 ### Computer Science & Engineering Student | Aspiring Software Engineer
